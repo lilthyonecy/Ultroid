@@ -16,7 +16,7 @@ lottie
 numpy>=1.21.2
 oauth2client
 opencv-python-headless
-pillow>=7.0.0
+pillow>=10.2.0
 profanitydetector
 psutil
 pypdf2>=1.26.0
